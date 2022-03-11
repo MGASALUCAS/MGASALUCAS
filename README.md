@@ -10,19 +10,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-languages
+Languages
 
-Python | C/C++ | Arduino
+--Python | C/C++ | Arduino
 
 
 Frameworks & Tools.
-Html | Css |
+
+--Html | Css |
 
 Web Frameworks
 
-Flask | Bootstrap  | Django |
+--Flask | Bootstrap  | Django |
 
 
 Data Science (ML/AI)
 
-Sklearn | Numpy | Tensorflow | Face recognition
+--Sklearn | Numpy | Tensorflow | Face recognition
