@@ -8,3 +8,19 @@
 MGASALUCAS/MGASALUCAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+languages
+
+Python | C/C++ | Arduino
+Html | Css |
+Frameworks & Tools
+
+Web Frameworks
+
+Flask | Bootstrap |  | Django |
+
+
+Data Science (ML/AI)
+
+Sklearn | Numpy | Tensorflow | Face recognition
