@@ -13,12 +13,14 @@ You can click the Preview link to take a look at your changes.
 languages
 
 Python | C/C++ | Arduino
+
+
+Frameworks & Tools.
 Html | Css |
-Frameworks & Tools
 
 Web Frameworks
 
-Flask | Bootstrap |  | Django |
+Flask | Bootstrap  | Django |
 
 
 Data Science (ML/AI)
