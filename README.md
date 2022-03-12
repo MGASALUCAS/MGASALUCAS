@@ -15,7 +15,7 @@ Languages
 --Python | C/C++ | Arduino
 
 
-Frameworks & Tools.
+Some Tools.
 
 --Html | Css |
 
