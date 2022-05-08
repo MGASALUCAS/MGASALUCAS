@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning anything with potential. 
 - 💞️ I’m looking to collaborate on python, django and machine learning projects.
-- 📫 How to reach me, Gmail through - mgasa.loucat1@gmail.com
+- 📫 Reach me out - mgasa.loucat1@gmail.com
 
 <!---
 MGASALUCAS/MGASALUCAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
