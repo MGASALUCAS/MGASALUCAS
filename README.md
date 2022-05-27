@@ -10,20 +10,38 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Languages
+**Languages**
 
 --Python | C/C++ | Arduino
 
 
-Sometimes.
+**UI tools.**
 
 --Html | Css |
 
-Web Frameworks
+**Web Frameworks**
 
 --Flask | Bootstrap  | Django |
 
 
-Data Science (ML/AI)
+**Data Science (ML/AI)**
 
---Sklearn | Numpy | Tensorflow | Face recognition
+--Sklearn | Numpy | Tensorflow | 
+
+**Databases & Storange**
+
+Sqlite | Mysql | Postgress | Amazon Auora
+
+**IOT TOOLS**
+Raspberry Pi | ESP32 | Arduino
+
+**Cloud & Hosting**
+
+AWS | Google Cloud | Digital Ocean | Heroku | Pythonanywhere
+
+**Version Control**
+
+Git | Github
+
+**Code Editor(IDE) + Environment**
+VSCode | Pycharm |
