@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 **Databases & Storange**
 
- • •Sqlite | Mysql | Postgress | Amazon Auora
+ • •Sqlite | Mysql | Postgress |
 
 **IOT TOOLS**
 
@@ -46,4 +46,5 @@ You can click the Preview link to take a look at your changes.
  • •Git | Github
 
 **Code Editor(IDE) + Environment**
+
  • •VSCode | Pycharm |
