@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MGASALUCAS- A student from Opensource and Tutorials university.
+- 👋 Hi, I’m MGASALUCAS-student from Opensource and Tutorials university.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning anything with potential. 
 - 💞️ I’m looking to collaborate on python, django and machine learning projects.
